@@ -1,0 +1,33 @@
+.background {
+    background-color: #B5D3E7;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.jumbotron {
+    background: none;
+}
+
+.hiscores1 {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    color: black;
+    font-size: 30px;
+}
+
+a:hover {
+    color: black;
+    font-size: 31px;
+}
+
+.btn-success {
+    background-color: purple;
+}
+
+#timer {
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
